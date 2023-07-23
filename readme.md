@@ -8,7 +8,7 @@ Soy Ingeniero de Sistemas y Desarrollador de Software con una pasión inquebrant
 
 Como explorador incansable en el ámbito de la tecnología, siempre estoy en busca de aprender y explorar las últimas tendencias en el desarrollo de software. Mi compromiso con el aprendizaje y el crecimiento personal es constante, lo que me permite mantenerme actualizado y preparado para enfrentar nuevos desafíos.
 
-## Lenguajes de Programación que Manejo:
+## Lenguajes de Programación que disfruto:
 
 - JavaScript (JS) :rocket:
 - Python (Python) :snake:
@@ -21,7 +21,7 @@ Mi objetivo es seguir expandiendo mi carrera en el campo de las tecnologías de 
 
 ## Contacto 📧
 
-Si deseas ponerte en contacto conmigo o conocer más sobre mi trabajo, no dudes en enviarme un correo electrónico a [correo@example.com](mailto:correo@example.com) o conectarme a través de mis redes sociales:
+Si deseas ponerte en contacto conmigo o conocer más sobre mi trabajo, no dudes en enviarme un correo electrónico a [hola@jotive.com.co](mailto:hola@jotive.com.co) o conectarme a través de mis redes sociales:
 
 - [LinkedIn](https://www.linkedin.com/in/jotive/)
 - [GitHub](https://github.com/jotive)
