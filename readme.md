@@ -1,40 +1,49 @@
-# ¡Hola, soy José Eduardo Tirado Verbel (Jotive) desde Colombia! 👋
+# 👋 Hi, I'm José Eduardo Tirado Verbel
 
-Soy **Ingeniero de Sistemas** y **desarrollador** al que le gusta **crear cosas que yo usaría**: productos, automatizaciones y microjuegos.  
-Construyo y publico desde mi estudio **GeosData**, con iteraciones cortas y aprendizaje en público.
+### 🌎 English
 
-[🌐 jotive.com.co](https://jotive.com.co) · [💼 LinkedIn](https://www.linkedin.com/in/jotive/) · [🧪 GeosData en GitHub](https://github.com/GeosData) · [📧 hola@jotive.com.co](mailto:hola@jotive.com.co)
+I am a **Software Engineer & Digital Product Creator** passionate about building scalable solutions, micro SaaS, mobile apps, and web platforms.  
+With 3+ years of experience in **software development and innovation**, I’ve worked on projects across retail, healthcare, and auditing industries, helping companies transform ideas into reliable products.
+
+💻 **Tech Stack & Skills**  
+- Languages & Frameworks: Go, Python, Node.js, React, Angular, FastAPI, PHP (Laravel, CodeIgniter)  
+- Databases: PostgreSQL, MongoDB, SQL Server, MySQL, Oracle  
+- Cloud & Tools: Docker, Azure, GCP, AWS, DigitalOcean  
+- Practices: Clean Architecture, APIs, Automation, AI/ML Integrations  
+
+🚀 **What I Do**  
+- Develop **scalable digital products** (web, mobile, cloud).  
+- Create **micro SaaS** solutions with modern stacks.  
+- Integrate **AI & automation** for smarter systems.  
+- Build MVPs that grow into real businesses.  
+
+📫 **Let’s Connect**  
+- 🌐 [jotive.com.co](https://jotive.com.co) (Main Hub)  
+- 💼 [dev.jotive.com.co](https://dev.jotive.com.co) (Professional Profile)  
+- 🏗️ [GeosData](https://geosdata.com) (Future Software Lab)  
+- 📧 jotive@gmail.com  
 
 ---
 
-## Acerca de mí
-Con **+3 años** desarrollando soluciones en distintos lenguajes y stacks, disfruto bajar ideas a software útil.  
-He trabajado con **prácticas ágiles** e **integración continua**, priorizando piezas **simples y mantenibles**.
+### 🌎 Español
 
-## Enfoque y aprendizaje continuo 🚀
-Sigo un ritmo de micro-lanzamientos: diseño → prototipo → uso real → mejora.  
-Aprendo mientras construyo y comparto lo que funciona (y lo que no) sin drama.
+Soy **Ingeniero de Software y Creador de Productos Digitales**, apasionado por el desarrollo de soluciones escalables, micro SaaS, apps móviles y plataformas web.  
+Con más de 3 años de experiencia en **desarrollo de software e innovación**, he trabajado en sectores como retail, salud y auditoría, transformando ideas en productos confiables.
 
-## Lenguajes y tecnologías que disfruto
-- **JavaScript** :rocket:
-- **Python** :snake:
-- **PHP** :elephant:
-- **Java** :coffee:
-- (y, cuando aplica: **FastAPI**, **React**, **PostgreSQL**, **Docker**)
+💻 **Stack Tecnológico & Habilidades**  
+- Lenguajes & Frameworks: Go, Python, Node.js, React, Angular, FastAPI, PHP (Laravel, CodeIgniter)  
+- Bases de Datos: PostgreSQL, MongoDB, SQL Server, MySQL, Oracle  
+- Cloud & Herramientas: Docker, Azure, GCP, AWS, DigitalOcean  
+- Prácticas: Arquitectura limpia, APIs, Automatización, Integración de IA/ML  
 
-## Qué estoy construyendo
-- Productos y automatizaciones **para uso propio** que luego abro al público.
-- Microjuegos 2D y experimentos indie.
-- Algunos proyectos tendrán **freemium / ingreso pasivo** si aportan valor.
+🚀 **Lo que hago**  
+- Desarrollo de **productos digitales escalables** (web, móvil, nube).  
+- Creación de **micro SaaS** con stacks modernos.  
+- Integración de **IA y automatización** en sistemas.  
+- Construcción de MVPs listos para crecer como negocio.  
 
-## Objetivos 🎯
-Seguir **creando y lanzando** desde GeosData, construyendo marca con trabajo constante.  
-Mantenerme actualizado, colaborar cuando tenga sentido y dejar que el **uso real** guíe el rumbo.
-
-## Contacto 📧
-¿Quieres seguir lo que construyo o dar feedback?  
-- [LinkedIn](https://www.linkedin.com/in/jotive/)  
-- [GitHub](https://github.com/jotive)  
-- [Email](mailto:hola@jotive.com.co)
-
-> *“Construir, aprender y compartir — paso a paso.”*
+📫 **Conectemos**  
+- 🌐 [jotive.com.co](https://jotive.com.co) (Hub Principal)  
+- 💼 [dev.jotive.com.co](https://dev.jotive.com.co) (Perfil Profesional)  
+- 🏗️ [GeosData](https://geosdata.com) (Laboratorio de Software)  
+- 📧 jotive@gmail.com  
