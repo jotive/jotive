@@ -1,79 +1,47 @@
-# 👋 Hi, I'm José Eduardo Tirado Verbel
+# Jose Eduardo Tirado Verbel
 
-### 🌍 English
+**Senior Backend Engineer** | Python, FastAPI, Node.js | AI/RAG Integration | Cloud & Security
 
-I am a **Senior Backend Engineer** specializing in **Python and Node.js**, building scalable **APIs, microservices, and cloud solutions** on **AWS and Azure**. I focus on architecting robust systems with **AI integrations** and delivering high-performance backend infrastructure.
+Systems Engineer with 6+ years building production backend systems across retail, banking, telecom, and SaaS. Specialized in Python/FastAPI and Node.js microservices with AI integration. Currently leading the Cloud & Security technical community at a multinational retailer, where I design learning programs, build internal tools, and drive security-first development practices.
 
-With **6+ years of experience** in software development and innovation, I've worked across retail, healthcare, auditing, and SaaS industries, helping companies transform ideas into production-ready systems.
+Building AI-powered products at [GeosData](https://geosdata.com) — production-grade backends, not notebooks.
 
-## 🏆 Recent Achievements & Contributions
+## What I Build
 
-- 💎 Designed and deployed microservices architectures using modern backend technologies
-- ⚡ Built scalable APIs and backend systems with Python, Node.js, and cloud infrastructure
-- 💡 Implemented AI/ML integrations to enhance software solutions and automation
-- 📦 Continuous learning and adoption of DevOps, Docker, and cloud-native practices
+**AI & Backend Integration**
+- RAG pipelines with FastAPI, Qdrant, and structured LLM outputs
+- Multi-agent orchestration systems with full trace logging
+- LLM gateway with multi-model routing, circuit breakers, and cost tracking
+- Semantic search APIs with hybrid ranking (vector + BM25)
 
-## 🚀 Featured Projects
+**Production Backend Systems**
+- APIs and microservices in Python (FastAPI) and Node.js (Express)
+- Cloud infrastructure on AWS and Azure with Docker and Terraform
+- CI/CD pipelines with security hardening (SAST, dependency scanning, secrets management)
+- Knowledge graph platforms with progress tracking and gamification
 
-### [PruebaBackend](https://github.com/jotive/PruebaBackend)
-Backend technical assessment demonstrating **API design**, **server-side architecture**, and **best practices** for production-ready systems.
+## Featured Projects
 
-### [PruebaFrontEnd](https://github.com/jotive/PruebaFrontEnd)
-Frontend technical assessment showcasing modern UI development practices and integration with backend APIs.
+| Project | What it does | Stack |
+|---|---|---|
+| [DocuQuery](https://github.com/GeosData/llm-rag-platform) | RAG platform for querying documents via LLM | FastAPI, Qdrant, OpenAI, Redis, Celery |
+| [ClaimFlow](https://github.com/GeosData/ai-agents-workflow) | Multi-step AI agent orchestration for approval pipelines | Python, LangGraph, Redis, OpenTelemetry |
+| [AIGateway](https://github.com/GeosData/production-ai-backend) | Multi-tenant LLM gateway with observability | FastAPI, Prometheus, Grafana, Docker |
+| [TalentMatch](https://github.com/GeosData/vector-search-api) | Semantic search with hybrid ranking | FastAPI, Qdrant, sentence-transformers |
+| [SmartShop](https://github.com/GeosData/smartshop) | Backend for local businesses: inventory, sales, alerts | FastAPI, PostgreSQL, Redis, WhatsApp API |
 
-### [poke-front-angular](https://github.com/jotive/poke-front-angular)
-Angular-based Pokémon frontend application with responsive design, demonstrating full-stack capabilities.
+## Tech Stack
 
-### [semilleroHBT2019](https://github.com/jotive/semilleroHBT2019)
-Full-stack training project from HBT bootcamp program, showcasing early development foundations.
+**Backend:** Python, FastAPI, Pydantic v2, Node.js, TypeScript, Express, Django
+**AI/GenAI:** RAG, LLM Integration, Agent Orchestration, MCP, Tool-Calling, Structured Outputs
+**Databases:** PostgreSQL, MongoDB, Redis, Qdrant, SQL Server, Oracle
+**Cloud & DevOps:** AWS, Azure, Docker, Terraform, GitHub Actions, CI/CD
+**Security:** Zero Trust, SSO/OAuth2, Cloud Hardening, SAST, Secrets Management
 
-## 🛠️ Tech Stack & Skills
+## Connect
 
-**Backend & Languages**: Python, Node.js, Go, Java, PHP (Laravel, CodeIgniter)  
-**Databases**: PostgreSQL, MongoDB, SQL Server, MySQL, Oracle  
-**Cloud & DevOps**: Docker, AWS, Azure, GCP, DigitalOcean  
-**Practices**: APIs, Microservices, Clean Architecture, Automation, AI/ML Integrations
-
-## 🎯 What I Do
-
-- Architect and develop **scalable backend systems** and **RESTful/GraphQL APIs**
-- Build **microservices** and **cloud-native applications** for modern infrastructure
-- Integrate **AI & automation** solutions for intelligent systems
-- Design **production-ready** solutions from concept to deployment
-
-## 📫 Let's Connect
-
-- 🌐 [jotive.com.co](https://jotive.com.co) (Main Hub)
-- 💼 [dev.jotive.com.co](https://dev.jotive.com.co) (Professional Profile)
-- 🏢 [LinkedIn](https://www.linkedin.com/in/jotive/)
-- 🧪 [GeosData](https://GeosData) (Future Software Lab)
-- ✉️ jotive@gmail.com
+[dev.jotive.com.co](https://dev.jotive.com.co) | [LinkedIn](https://www.linkedin.com/in/jotive/) | [GeosData](https://geosdata.com) | jotive@gmail.com
 
 ---
 
-### 🌍 Español
-
-Soy **Ingeniero de Backend Senior** especializado en **Python y Node.js**, construyendo **APIs, microservicios y soluciones cloud** escalables en **AWS y Azure**. Me enfoco en arquitecturas robustas con **integraciones de IA** y backend de alto rendimiento.
-
-Con más de **6 años de experiencia** en desarrollo de software e innovación, he trabajado en sectores como retail, salud y auditoría, transformando ideas en sistemas listos para producción.
-
-## 🏆 Logros Recientes y Contribuciones
-
-- 💎 Diseño y despliegue de arquitecturas de microservicios con tecnologías backend modernas
-- ⚡ Construcción de APIs y sistemas backend escalables con Python, Node.js y cloud
-- 💡 Implementación de integraciones de IA/ML para mejorar soluciones de software
-- 📦 Aprendizaje continuo y adopción de DevOps, Docker y prácticas cloud-native
-
-## 🛠️ Stack Técnico y Habilidades
-
-**Backend y Lenguajes**: Python, Node.js, Go, Java, PHP (Laravel, CodeIgniter)  
-**Bases de Datos**: PostgreSQL, MongoDB, SQL Server, MySQL, Oracle  
-**Cloud y DevOps**: Docker, AWS, Azure, GCP, DigitalOcean  
-**Prácticas**: APIs, Microservicios, Arquitectura Limpia, Automatización, Integraciones IA/ML
-
-## 🎯 Qué Hago
-
-- Arquitectura y desarrollo de **sistemas backend escalables** y **APIs RESTful/GraphQL**
-- Construcción de **microservicios** y **aplicaciones cloud-native**
-- Integración de soluciones de **IA y automatización** para sistemas inteligentes
-- Diseño de soluciones **listas para producción** desde concepto hasta despliegue
+*Ingeniero de Sistemas | Monteria, Colombia | Remote (UTC-5)*
