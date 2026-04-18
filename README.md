@@ -28,10 +28,11 @@ Technical portfolio and engineering notes at **[dev.jotive.com.co](https://dev.j
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **Order Processing Platform** *(in progress)* | API design, SQL modeling, caching strategy, ADRs | FastAPI · PostgreSQL · Redis · Docker · CI/CD |
-| **Event-Driven Microservices** *(upcoming)* | Bounded contexts, Kafka, SAGA, Circuit Breaker, K8s | FastAPI · Kafka · Prometheus · Grafana · K8s |
-| [DocuQuery](https://github.com/GeosData/llm-rag-platform) | Production RAG with source references and cost tracking | FastAPI · Qdrant · OpenAI · Celery |
-| [SmartShop](https://github.com/GeosData/smartshop) | Multi-tenant backend for small businesses | FastAPI · PostgreSQL · Redis · WhatsApp API |
+| [order-processing-platform](https://github.com/jotive/order-processing-platform) | API design, idempotency, cursor pagination, cache-aside, ADRs | FastAPI · PostgreSQL · Redis · Alembic · Docker |
+| [event-driven-microservices](https://github.com/jotive/event-driven-microservices) | Bounded contexts, Kafka, SAGA, Circuit Breaker, K8s | Python · Kafka · K8s · OpenTelemetry |
+| [system-design-notes](https://github.com/jotive/system-design-notes) | Structured design write-ups — trade-offs, alternatives rejected | Markdown · Mermaid |
+| [coding-interviews-prep](https://github.com/jotive/coding-interviews-prep) | Algorithms with complexity analysis and tests | Python · pytest |
+| [llm-rag-platform](https://github.com/GeosData/llm-rag-platform) | Production RAG with source references and cost tracking | FastAPI · Qdrant · OpenAI · Celery |
 
 > Full portfolio and technical writing at **[dev.jotive.com.co](https://dev.jotive.com.co)**.
 
