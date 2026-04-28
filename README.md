@@ -1,58 +1,64 @@
 # Jose Eduardo Tirado Verbel · `jotive.dev`
 
-**Senior Backend Engineer** — Python / FastAPI · Distributed Systems · Cloud (AWS/Azure) · AI Integration
+**Senior Backend Engineer** — Python · TypeScript · AI Integration
 
-Systems Engineer with 6+ years building production backend systems across retail, banking, telecom, and SaaS. Focused on API design, distributed systems, event-driven architectures, and observable services. Currently leading the Cloud & Security technical community at a multinational retailer.
+Backend engineer con 6+ años construyendo APIs y servicios que llegan a producción. Foco en diseño de API con trade-offs explícitos (cada decisión documentada como ADR), microservicios multi-tenant en Google Cloud, e integración real de LLMs en flujos de negocio.
 
-Technical portfolio and engineering notes at **[dev.jotive.com.co](https://dev.jotive.com.co)**.
-
----
-
-## What I Build
-
-**Distributed Backend Systems**
-- REST APIs with idempotency, cursor pagination, rate limiting (FastAPI, Pydantic v2)
-- Event-driven microservices with Kafka, SAGA orchestration, Circuit Breaker patterns
-- Observability-first: structured logs, Prometheus metrics, OpenTelemetry tracing
-- CI/CD with security hardening — SAST, dependency scanning, secrets management
-- Architecture Decision Records (ADRs) for every non-trivial choice
-
-**AI Integration (applied, not research)**
-- RAG pipelines with structured LLM outputs and cost tracking
-- Multi-agent orchestration with full trace logging
-- LLM gateway with multi-model routing and circuit breakers
+Notas técnicas y proyectos en **[dev.jotive.com.co](https://dev.jotive.com.co)**.
 
 ---
 
-## Featured Engineering Work
+## What I build
+
+**Production APIs**
+- REST con idempotency keys (Postgres unique + Redis lock), cursor pagination, rate limiting con token bucket Lua atómico, errores RFC 7807
+- Microservicios multi-tenant en Cloud Run con signed URLs (GCS) y convención de keys por tenant
+- Cada decisión técnica como Architecture Decision Record con alternativas rechazadas
+
+**AI Integration (aplicado, no investigación)**
+- Pipelines con Anthropic Claude Sonnet (incluyendo visión sobre URLs remotas) con manejo de quota y abort temprano en lugar de retry bobo
+- Integración OpenAI Chat Completions dentro de pipelines FastAPI
+- Clasificación de señales con LLM sobre datos scrapeados
+
+**Infra**
+- Bash idempotente para hardening de VPS (sshd, fail2ban, systemd user con CPU/RAM limits)
+- Docker multi-stage + Compose como interfaz estándar
+- CI/CD con GitHub Actions
+
+---
+
+## Featured engineering work
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [order-processing-platform](https://github.com/jotive/order-processing-platform) | API design, idempotency, cursor pagination, cache-aside, ADRs | FastAPI · PostgreSQL · Redis · Alembic · Docker |
-| [event-driven-microservices](https://github.com/jotive/event-driven-microservices) | Bounded contexts, Kafka, SAGA, Circuit Breaker, K8s | Python · Kafka · K8s · OpenTelemetry |
-| [system-design-notes](https://github.com/jotive/system-design-notes) | Structured design write-ups — trade-offs, alternatives rejected | Markdown · Mermaid |
-| [coding-interviews-prep](https://github.com/jotive/coding-interviews-prep) | Algorithms with complexity analysis and tests | Python · pytest |
-| [llm-rag-platform](https://github.com/GeosData/llm-rag-platform) | Production RAG with source references and cost tracking | FastAPI · Qdrant · OpenAI · Celery |
+| [order-processing-platform](https://github.com/jotive/order-processing-platform) | API design senior — idempotency dual-layer, cursor pagination, cache-aside, rate limit Lua, ADRs documentados | FastAPI · PostgreSQL 16 · Redis 7 · SQLAlchemy 2.0 · Alembic · Docker |
+| [coding-interviews-prep](https://github.com/jotive/coding-interviews-prep) | Algoritmos con análisis de complejidad O(t)/O(s) y pytest. Trade-offs explícitos sobre código clever | Python 3.11+ · pytest |
+| [network-scanner](https://github.com/jotive/network-scanner) | CLI cross-platform sin dependencias para escanear red local | Python 3 |
+| [system-design-notes](https://github.com/jotive/system-design-notes) | Cuaderno técnico de system design — requirements, estimación, deep dives, alternativas rechazadas (WIP) | Markdown · Mermaid |
 
-> Full portfolio and technical writing at **[dev.jotive.com.co](https://dev.jotive.com.co)**.
+> Más proyectos y notas técnicas en **[dev.jotive.com.co](https://dev.jotive.com.co)**.
 
 ---
 
-## Tech Stack
+## Tech stack (verified — claim = repo)
 
-**Backend:** Python · FastAPI · Pydantic v2 · Node.js · TypeScript · Express
-**Distributed:** Kafka · SAGA · Circuit Breaker · Event Sourcing · CQRS
-**Databases:** PostgreSQL · Redis · MongoDB · Qdrant · SQL Server · Oracle
-**Cloud & DevOps:** AWS · Azure · Docker · Kubernetes · Terraform · GitHub Actions
-**Observability:** Prometheus · Grafana · OpenTelemetry · Structured Logging
-**Security:** OAuth2 · JWT · Zero Trust · SAST · Secrets Management
+**Languages:** Python · TypeScript · JavaScript
+**Backend frameworks:** FastAPI · Express · Pydantic v2 · SQLAlchemy 2.0 · Alembic
+**Databases:** PostgreSQL · Redis · SQLite
+**AI / LLM:** Anthropic Claude API (incl. vision) · OpenAI API
+**Cloud:** Google Cloud (Cloud Run · GCS · signed URLs)
+**DevOps:** Docker · GitHub Actions · Caddy · nginx · fail2ban · systemd
+**Frontend (when needed):** React · Next.js 16 · Astro · Tailwind CSS · Zustand
+**Auth & security:** JWT (`jose`) · Google OAuth · API key + bearer · multi-tenant patterns
+
+**Knowledge / not yet evidenced in public code:** Kubernetes · AWS · Terraform · Prometheus · Grafana · vector DBs (pgvector, Qdrant) · LangChain / LangGraph · MongoDB.
 
 ---
 
 ## Connect
 
-[dev.jotive.com.co](https://dev.jotive.com.co) · [LinkedIn](https://www.linkedin.com/in/jotive/) · [Instagram](https://www.instagram.com/jotive.dev/) · jotive@gmail.com
+[dev.jotive.com.co](https://dev.jotive.com.co) · [LinkedIn](https://www.linkedin.com/in/jotive/) · jotive@gmail.com
 
 ---
 
-*Systems Engineer · Monteria, Colombia · Remote (UTC-5) · English B2+*
+*Senior Backend Engineer · Colombia · English B1+*
