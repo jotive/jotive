@@ -40,18 +40,22 @@ Notas técnicas y proyectos en **[dev.jotive.com.co](https://dev.jotive.com.co)*
 
 ---
 
-## Tech stack (verified — claim = repo)
+## Tech stack
 
 **Languages:** Python · TypeScript · JavaScript
 **Backend frameworks:** FastAPI · Express · Pydantic v2 · SQLAlchemy 2.0 · Alembic
-**Databases:** PostgreSQL · Redis · SQLite
+**Databases:** PostgreSQL · Azure SQL · Cosmos DB · Redis · SQLite
 **AI / LLM:** Anthropic Claude API (incl. vision) · OpenAI API
-**Cloud:** Google Cloud (Cloud Run · GCS · signed URLs)
-**DevOps:** Docker · GitHub Actions · Caddy · nginx · fail2ban · systemd
+**Cloud (Experience):**
+- **Azure** — App Service · Container Apps · Storage (Blob, Queue, Table) · Service Bus · Event Grid · Event Hubs · Key Vault · Application Insights · Log Analytics · API Management · Entra ID · Azure DevOps
+- **AWS** — Lambda · EC2 · S3 · API Gateway · SES · SNS · SQS
+
+**Cloud (Familiarity):** Google Cloud (Cloud Run · GCS · signed URLs)
+**DevOps:** Docker · GitHub Actions · Azure DevOps · Caddy · nginx · fail2ban · systemd
 **Frontend (when needed):** React · Next.js 16 · Astro · Tailwind CSS · Zustand
 **Auth & security:** JWT (`jose`) · Google OAuth · API key + bearer · multi-tenant patterns
 
-**Knowledge / not yet evidenced in public code:** Kubernetes · AWS · Terraform · Prometheus · Grafana · vector DBs (pgvector, Qdrant) · LangChain / LangGraph · MongoDB.
+**Knowledge / not yet evidenced in public code:** Kubernetes · Terraform · Prometheus · Grafana · vector DBs (pgvector, Qdrant) · LangChain / LangGraph · MongoDB.
 
 ---
 
