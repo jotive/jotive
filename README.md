@@ -66,4 +66,4 @@ Notas técnicas y proyectos en **[dev.jotive.com.co](https://dev.jotive.com.co)*
 
 ---
 
-*Systems Engineering BSc · Backend Engineer · Monteria, Colombia · Remote (UTC-5) · English B1-B2 (improving)*
+*Systems Engineering BSc · Backend Engineer · Colombia · Remote (UTC-5) · English B1-B2 (improving)*
