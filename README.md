@@ -1,6 +1,6 @@
 # Jose Eduardo Tirado Verbel · `jotive.dev`
 
-**Senior Backend Engineer** — Python · TypeScript · AI Integration
+**Backend Engineer** — Python · TypeScript · AI Integration
 
 Backend engineer con 6+ años construyendo APIs y servicios que llegan a producción. Foco en diseño de API con trade-offs explícitos (cada decisión documentada como ADR), microservicios multi-tenant en Google Cloud, e integración real de LLMs en flujos de negocio.
 
@@ -31,10 +31,11 @@ Notas técnicas y proyectos en **[dev.jotive.com.co](https://dev.jotive.com.co)*
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [order-processing-platform](https://github.com/jotive/order-processing-platform) | API design senior — idempotency dual-layer, cursor pagination, cache-aside, rate limit Lua, ADRs documentados | FastAPI · PostgreSQL 16 · Redis 7 · SQLAlchemy 2.0 · Alembic · Docker |
+| [order-processing-platform](https://github.com/jotive/order-processing-platform) | API design — idempotency dual-layer, cursor pagination, cache-aside, rate limit Lua, ADRs documentados | FastAPI · PostgreSQL 16 · Redis 7 · SQLAlchemy 2.0 · Alembic · Docker |
+| [llm-rag-platform](https://github.com/GeosData/llm-rag-platform) | Pipeline RAG con citas a fuente, ADR sobre vector store (Qdrant vs pgvector) | FastAPI · Qdrant · OpenAI · SQLAlchemy 2.0 · Alembic |
+| [smartshop](https://github.com/GeosData/smartshop) | Backend SaaS multi-tenant, JWT auth, ADRs sobre tenancy y autenticación | FastAPI · PostgreSQL · Redis · JWT |
 | [coding-interviews-prep](https://github.com/jotive/coding-interviews-prep) | Algoritmos con análisis de complejidad O(t)/O(s) y pytest. Trade-offs explícitos sobre código clever | Python 3.11+ · pytest |
 | [network-scanner](https://github.com/jotive/network-scanner) | CLI cross-platform sin dependencias para escanear red local | Python 3 |
-| [system-design-notes](https://github.com/jotive/system-design-notes) | Cuaderno técnico de system design — requirements, estimación, deep dives, alternativas rechazadas (WIP) | Markdown · Mermaid |
 
 > Más proyectos y notas técnicas en **[dev.jotive.com.co](https://dev.jotive.com.co)**.
 
@@ -65,4 +66,4 @@ Notas técnicas y proyectos en **[dev.jotive.com.co](https://dev.jotive.com.co)*
 
 ---
 
-*Senior Backend Engineer · Colombia · English B1+*
+*Systems Engineering BSc · Backend Engineer · Monteria, Colombia · Remote (UTC-5) · English B1-B2 (improving)*
