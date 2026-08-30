@@ -34,8 +34,7 @@ Notas técnicas y proyectos en **[dev.jotive.com.co](https://dev.jotive.com.co)*
 | [order-processing-platform](https://github.com/jotive/order-processing-platform) | API design — idempotency dual-layer, cursor pagination, cache-aside, rate limit Lua, ADRs documentados | FastAPI · PostgreSQL 16 · Redis 7 · SQLAlchemy 2.0 · Alembic · Docker |
 | [llm-rag-platform](https://github.com/GeosData/llm-rag-platform) | Pipeline RAG con citas a fuente, ADR sobre vector store (Qdrant vs pgvector) | FastAPI · Qdrant · OpenAI · SQLAlchemy 2.0 · Alembic |
 | [smartshop](https://github.com/GeosData/smartshop) | Backend SaaS multi-tenant, JWT auth, ADRs sobre tenancy y autenticación | FastAPI · PostgreSQL · Redis · JWT |
-| [coding-interviews-prep](https://github.com/jotive/coding-interviews-prep) | Algoritmos con análisis de complejidad O(t)/O(s) y pytest. Trade-offs explícitos sobre código clever | Python 3.11+ · pytest |
-| [network-scanner](https://github.com/jotive/network-scanner) | CLI cross-platform sin dependencias para escanear red local | Python 3 |
+|| [school-scheduler](https://horarios-escolares.geosdata.com) | Generador de horarios escolares con motor de optimización CP-SAT, validación previa y release descargable (.exe) — deploy público, probable sin clonar | Python · OR-Tools (CP-SAT) · FastAPI · React/Vite · PyInstaller |
 
 > Más proyectos y notas técnicas en **[dev.jotive.com.co](https://dev.jotive.com.co)**.
 
